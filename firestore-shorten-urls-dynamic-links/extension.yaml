@@ -93,7 +93,7 @@ params:
     description: >
       Do you want your short links to end with the shortest possible suffix or
       longer suffixes that are unlikely to be guessable? In general, you can use
-      short suffixes as long as there's no harm in someone suuccessfuly guessing
+      short suffixes as long as there's no harm in someone successfuly guessing
       a short link.
     options:
     - label: Short

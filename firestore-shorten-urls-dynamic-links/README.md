@@ -17,7 +17,7 @@ collection, using Dynamic Links
 * Dynamic Links suffix length: Do you want your short links to end with the
   shortest possible suffix or longer suffixes that are unlikely to be
   guessable? In general, you can use short suffixes as long as there's no harm
-  in someone suuccessfuly guessing a short link.
+  in someone successfuly guessing a short link.
 * Collection path: What is the path to the collection that contains the URLs
   that you want to shorten?
 * URL field name: What is the name of the field that contains the original
@@ -50,8 +50,8 @@ in your Firebase project.
 
 You must also have a Dynamic Links URL prefix set up before installing this extension.
 You can do so on the [Dynamic Links][dyn-links] section of the console. A Dynamic
-Links URL prefix can use a free Google-hosted subdomain, such as
-`https://yourapp.page.link/` or your own domain, such as `https://example.com/link`.
+Links URL prefix can use a free Google-hosted subdomain, such as in
+`https://yourapp.page.link` or your own domain, such as in `https://example.com/link`.
 
 [dyn-links]: https://console.firebase.google.com/project/${param:PROJECT_ID}/durablelinks
 
